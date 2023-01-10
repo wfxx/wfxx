@@ -5,22 +5,20 @@
 
 ## my-world
 * my-world-editor
-QT
+**QT**
 * my-world-client
-Unity
+**Unity**
 * my-world-server
-leaf+go+MongoDB
+**leaf+gorm+MongoDB+mysql**
 
 ## my-tools
 * my-tools-client
-flutter
+**flutter**
 * my-tools-server
-gin+gorm+redis+mysql
+**gin+gorm+redis+mysql**
 
-## my-resource
-* unity-plugin
-* tools
-* font
+## other
+* my-resource
 
 <!---
 wfxx/wfxx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

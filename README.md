@@ -5,23 +5,23 @@
 
 ## my-world
 * my-world-editor
-**QT**
+- **QT**
 * my-world-client
-**Unity**
+- **Unity**
 * my-world-server
-**leaf+gorm+MongoDB+mysql**
+- **leaf+gorm+MongoDB+mysql**
 
 ## my-tools
 * my-tools-client
-**flutter**
+- **flutter**
 * my-tools-server
-**gin+gorm+redis+mysql**
+- **gin+gorm+redis+mysql**
 
 ## my-games
 * my-games-client
-**CocosCreator**
+- **CocosCreator**
 * my-games-server
-**skynet+redis+mysql**
+- **skynet+redis+mysql**
 
 ## other
 * my-resource

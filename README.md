@@ -17,6 +17,12 @@
 * my-tools-server
 **gin+gorm+redis+mysql**
 
+## my-games
+* my-games-client
+**CocosCreator**
+* my-games-server
+**skynet+redis+mysql**
+
 ## other
 * my-resource
 

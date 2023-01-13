@@ -25,8 +25,10 @@
 ## my-games
 * my-games-client
   - **CocosCreator**
+  - https://github.com/wfxx/my-games-client
 * my-games-server
   - **skynet+redis+mysql**
+  - https://github.com/wfxx/my-games-server
 
 ## other
 * my-resource

@@ -1,7 +1,6 @@
 > 最喜欢的编程语言是C++,python和go
 
 ## my-world
-- 自己搭的服务器框架和客户端框架
 - 地图编辑器+unity客户端+go-leaf服务器
 
 ## my-tools

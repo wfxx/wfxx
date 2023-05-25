@@ -1,13 +1,17 @@
 > 最喜欢的编程语言是C++,python和go
-# ChitterChat
+# 技术栈
 ```mermaid
 graph LR
-ChitterChat-->moble
-mobile-->flutter
-ChitterChat-->window
-window-->QT
-ChitterChat-->server
-server-->GO
+客户端-->游戏
+游戏-->Cocos
+游戏-->Unity
+游戏-->GoDot
+客户端-->应用
+应用-->QT
+应用-->Flutter
+服务器-->Go
+服务器-->Skynet
+服务器-->Flask
 ```
 <!---
 wfxx/wfxx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,32 +1,13 @@
 > 最喜欢的编程语言是C++,python和go
-# MyWorld
+# ChitterChat
 ```mermaid
 graph LR
-MyWorld-->client
-client-->unity+grpc
-MyWorld-->server
-server-->go-leaf
-server-->mongodb+mysql
-MyWorld-->editor
-editor-->QT
-```
-# MyTools
-```mermaid
-graph LR
-MyTools-->client
-client-->flutter
-MyTools-->server
-server-->go-gin
-server-->redis+mysql
-```
-# MyGames
-```mermaid
-graph LR
-MyTools-->client
-client-->CocosCreator
-MyTools-->server
-server-->skynet
-server-->redis+mysql
+ChitterChat-->moble
+mobile-->flutter
+ChitterChat-->window
+window-->QT
+ChitterChat-->server
+server-->GO
 ```
 <!---
 wfxx/wfxx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
